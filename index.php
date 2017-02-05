@@ -18,6 +18,19 @@
     <![endif]-->
   </head>
   <body>
+    <div class="containter">
+      <h1>Todd Michael Bennett</h1>
+      <img src="/images/propic.jpg" />
+      <hr>
+      <p> Hi! My name is Todd Michael Bennett and I am based out of Denver but frequently fly to Asia for business.
+          I started an educational consulting firm in Seoul, South Korea about five years ago and deal with companies
+          like Samsung, Hyundai, and LG.  I recruit top corporate trainers that hold seminars and workshops, educating
+          employees to get-up-to-speed on various topics related to business.</p>
+      <p>I joined this class to further my understanding with coding and become more familiar with server-side code.
+         For the past couple of years, I have been learning client-side programming i.e., HTML, CSS, and JS.  I realize
+         that these technologies are great but want to understand the whole picture and how the back-end works.  So, here
+         I am and excited to learn everything about PHP and related technologies</p>
+    </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
