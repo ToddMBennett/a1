@@ -1,13 +1,18 @@
 .container {
-  width: 600px;
+  max-width: 600px;
+  margin-top: 50px;
 }
 
 h1, p {
   text-align: center;
 }
 
-#pic {
+.img-responsive {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#quote {
+  margin-bottom: 50px;
 }
