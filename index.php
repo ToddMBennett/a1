@@ -9,7 +9,7 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <img scr="main.css" />
+    <link rel="stylesheet" type="text/css" href="main.css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -18,9 +18,9 @@
     <![endif]-->
   </head>
   <body>
-    <div class="containter">
+    <div class="container">
       <h1>Todd Michael Bennett</h1>
-      <img src="/images/propic.jpg" />
+      <img id="pic" src="propic.jpg" />
       <hr>
       <p> Hi! My name is Todd Michael Bennett and I am based out of Denver but frequently fly to Asia for business.
           I started an educational consulting firm in Seoul, South Korea about five years ago and deal with companies

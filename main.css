@@ -1,0 +1,13 @@
+.container {
+  width: 600px;
+}
+
+h1, p {
+  text-align: center;
+}
+
+#pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
