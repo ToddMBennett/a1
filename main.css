@@ -1,4 +1,4 @@
-/* Using container to restrict with and create border definition */
+/* Using container to restrict width and create border definition */
 .container {
   max-width: 600px;
   padding-top: 20px;
